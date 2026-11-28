@@ -4,3 +4,6 @@ venv/
 .env
 __pycache__/
 *.pyc
+cd ~/quantumvault
+echo "*.o" >> .gitignore
+crypto/test_crypto
